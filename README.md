@@ -42,7 +42,7 @@
     加粗：Ctrl/Command + B
     斜体：Ctrl/Command + I
     标题：Ctrl/Command + {1,2,3,4,5,6}
-	段落：Ctrl/Command + 0
+    段落：Ctrl/Command + 0
     链接：Ctrl/Command + K
     查找：Ctrl/Command + F
     替换：Ctrl/Command + H
@@ -86,7 +86,7 @@
 
 ```
 在文件前面添加一个到六个 # 可以分别代表一级标题到六级标题；
-	# 1			快捷键Ctrl + 1
+    # 1			快捷键Ctrl + 1
     ## 2		快捷键Ctrl + 2
     ### 3		快捷键Ctrl + 3
     #### 4		快捷键Ctrl + 4
